@@ -29,5 +29,5 @@ Welcome to my portfolio! Here you will find three end-to-end projects demonstrat
 ---
 
 ### 📬 Contact
-* **LinkedIn:** [Your LinkedIn Link]
+* **LinkedIn:** [[Your LinkedIn Link]](https://www.linkedin.com/in/sarthak-waghmare-48061628a/)
 * **Email:** [Your Email]
